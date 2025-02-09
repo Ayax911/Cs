@@ -1,0 +1,15 @@
+C:\Users\Ojeda\OneDrive\Desktop\PROGRAMACION\C#\Cs\bin\Debug\net9.0\Cs.exe
+C:\Users\Ojeda\OneDrive\Desktop\PROGRAMACION\C#\Cs\bin\Debug\net9.0\Cs.deps.json
+C:\Users\Ojeda\OneDrive\Desktop\PROGRAMACION\C#\Cs\bin\Debug\net9.0\Cs.runtimeconfig.json
+C:\Users\Ojeda\OneDrive\Desktop\PROGRAMACION\C#\Cs\bin\Debug\net9.0\Cs.dll
+C:\Users\Ojeda\OneDrive\Desktop\PROGRAMACION\C#\Cs\bin\Debug\net9.0\Cs.pdb
+C:\Users\Ojeda\OneDrive\Desktop\PROGRAMACION\C#\Cs\obj\Debug\net9.0\Cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ojeda\OneDrive\Desktop\PROGRAMACION\C#\Cs\obj\Debug\net9.0\Cs.AssemblyInfoInputs.cache
+C:\Users\Ojeda\OneDrive\Desktop\PROGRAMACION\C#\Cs\obj\Debug\net9.0\Cs.AssemblyInfo.cs
+C:\Users\Ojeda\OneDrive\Desktop\PROGRAMACION\C#\Cs\obj\Debug\net9.0\Cs.csproj.CoreCompileInputs.cache
+C:\Users\Ojeda\OneDrive\Desktop\PROGRAMACION\C#\Cs\obj\Debug\net9.0\Cs.sourcelink.json
+C:\Users\Ojeda\OneDrive\Desktop\PROGRAMACION\C#\Cs\obj\Debug\net9.0\Cs.dll
+C:\Users\Ojeda\OneDrive\Desktop\PROGRAMACION\C#\Cs\obj\Debug\net9.0\refint\Cs.dll
+C:\Users\Ojeda\OneDrive\Desktop\PROGRAMACION\C#\Cs\obj\Debug\net9.0\Cs.pdb
+C:\Users\Ojeda\OneDrive\Desktop\PROGRAMACION\C#\Cs\obj\Debug\net9.0\Cs.genruntimeconfig.cache
+C:\Users\Ojeda\OneDrive\Desktop\PROGRAMACION\C#\Cs\obj\Debug\net9.0\ref\Cs.dll
